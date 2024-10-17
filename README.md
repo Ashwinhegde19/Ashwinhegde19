@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashwin K M</h1>
-<h3 align="center">A passionate frontend and backend developer <br> Git commits and coffee sips, frontend blooms, backend grips.</h3>
+<h1 align="center">Hi 👋, I'm Ashwin </h1>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/ashwinhegde19" target="blank"><img src="https://img.shields.io/twitter/follow/ashwinhegde19?logo=twitter&style=for-the-badge" alt="ashwinhegde19" /></a> </p>
