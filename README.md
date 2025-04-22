@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashwinhegde19" target="blank"><img src="https://img.shields.io/twitter/follow/ashwinhegde19?logo=twitter&style=for-the-badge" alt="ashwinhegde19" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashwinhegde19?tab=repositories](https://github.com/Ashwinhegde19?tab=repositories)
 
