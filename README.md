@@ -179,12 +179,7 @@ Lightweight Windows utility for real-time RAM and CPU monitoring with minimal sy
 
 
 
-<div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ashwinhegde19&show_icons=true&count_private=true&hide_border=true&title_color=40c463&icon_color=40c463&text_color=c9d1d9&bg_color=0d1117" alt="Ashwin Hegde github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinhegde19&layout=compact&hide_border=true&title_color=40c463&text_color=c9d1d9&bg_color=0d1117" />
 
-</div>
 
 <div align="center">
   
