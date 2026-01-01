@@ -19,8 +19,8 @@
 
 Full-Stack & GenAI Engineer building high-performance applications with clean code and scalable architecture.
 
-- 🔭 Currently working on **GenAI-powered Developer Tools**
-- 🌱 Specializing in **Node.js, FastAPI, React, LangChain, Google Gemini**
+- 🔭 Currently working on **Building practical developer tools**
+- 🌱 Specializing in **Node.js, FastAPI, React, LangChain**
 - 💬 Bridging robust backend systems with intuitive frontend experiences
 - ⚡ Fun fact: I automate everything I do twice
 
