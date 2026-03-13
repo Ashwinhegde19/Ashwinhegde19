@@ -1,13 +1,15 @@
 <div align="center">
 
-# Hi, I'm Ashwin 👋
+# Hey, I'm Ashwin 👋
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-stack+Engineer;AI+%26+LLM+Integration+Specialist;Building+Production+Systems;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+things+on+the+web;Tinkering+with+AI+agents;Writing+about+what+I+learn;Based+in+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
   <br/>
 
+  <a href="https://ashwinhegde19.github.io"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Blog"/></a>
   <a href="https://twitter.com/ashwinhegde19"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://ashwinhegde.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://www.linkedin.com/in/ashwinhegde19/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ashwinhegde.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
 
 </div>
 
@@ -15,12 +17,12 @@
 
 ### 👨‍💻 About Me
 
-Full-Stack & GenAI Engineer building high-performance applications with clean code and scalable architecture.
+Software developer at **Doozie Software Solutions** in Bengaluru. I build web apps, tinker with AI agents, and write about what I learn along the way.
 
-- 🔭 Currently working on **Building practical developer tools**
-- 🌱 Specializing in **Node.js, FastAPI, React, LangChain**
-- 💬 Bridging robust backend systems with intuitive frontend experiences
-- ⚡ Fun fact: I automate everything I do twice
+- 🔧 Day job: Full-stack work with **Node.js, FastAPI, React** — shipping product features and working with LLMs
+- 🏆 Won first place at the **HSRFC x OpenClaw Builders** hackathon — built an autonomous GitHub Issue Resolver in 4 hours
+- ✍️ I write on my [blog](https://ashwinhegde19.github.io) about things I'm building and learning
+- ⚡ I automate everything I do twice
 
 ---
 
@@ -100,23 +102,23 @@ AI-driven coding assistant with full-stack architecture. Modular design for scal
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📄 AI Resume Reviewer</h3>
+<h3 align="center">🏆 GitHub Issue Resolver</h3>
 
 <div align="center">
-  <a href="https://github.com/Ashwinhegde19/AI-Powered-Resume-Reviewer">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-6366F1?style=for-the-badge&logoColor=white" alt="View"/>
+  <a href="https://ashwinhegde19.github.io/posts/2026/openclaw-hackathon">
+    <img src="https://img.shields.io/badge/READ_THE_STORY-FF6B01?style=for-the-badge&logoColor=white" alt="Blog Post"/>
   </a>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI-FF6F61?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenClaw-FF6B6B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agent-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/1st_Place-FFD700?style=flat-square&logoColor=black"/>
 </p>
 
-Generative AI-powered resume analysis providing structured feedback using LLM APIs.
+Autonomous agent that discovers, ranks, and analyzes open GitHub issues. Built in 4 hours at the HSRFC x OpenClaw hackathon. Won first place.
 
 </td>
 </tr>
@@ -144,10 +146,10 @@ Enterprise Cloud Ops Assistant built for the MCP Hackathon. Intelligent cloud in
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💾 RAM Monitor</h3>
+<h3 align="center">📄 AI Resume Reviewer</h3>
 
 <div align="center">
-  <a href="https://github.com/Ashwinhegde19/ram-monitor">
+  <a href="https://github.com/Ashwinhegde19/AI-Powered-Resume-Reviewer">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-6366F1?style=for-the-badge&logoColor=white" alt="View"/>
   </a>
 </div>
@@ -155,11 +157,12 @@ Enterprise Cloud Ops Assistant built for the MCP Hackathon. Intelligent cloud in
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GenAI-FF6F61?style=flat-square&logoColor=white"/>
 </p>
 
-Lightweight Windows utility for real-time RAM and CPU monitoring with minimal system footprint.
+Generative AI-powered resume analysis providing structured feedback using LLM APIs.
 
 </td>
 </tr>
@@ -170,16 +173,6 @@ Lightweight Windows utility for real-time RAM and CPU monitoring with minimal sy
 ---
 
 <div align="center">
-
-**Currently:** Software Developer @ **Doozie Software Solutions** · Building with GenAI & LLMs
-
-</div>
-
-
-
-
-
-<div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Ashwinhegde19&theme=dark&hide_border=true&background=0D1117&stroke=40c463&ring=40c463&fire=40c463&currStreakLabel=40c463)](https://git.io/streak-stats)
 
@@ -187,13 +180,14 @@ Lightweight Windows utility for real-time RAM and CPU monitoring with minimal sy
 
 ---
 
-### 🎯 Current Focus
+### 🎯 Right Now
 
 ```javascript
 const ashwin = {
+    working: "Doozie Software Solutions",
     building: "AI-powered developer tools",
     exploring: ["Agentic workflows", "LLM orchestration"],
-    contributing: "Open source in GenAI ecosystem",
+    writing: "ashwinhegde19.github.io",
     learning: "Always"
 };
 ```
