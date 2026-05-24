@@ -2,7 +2,7 @@
 
 # Hey, I'm Ashwin 👋
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+things+on+the+web;Tinkering+with+AI+agents;Writing+about+what+I+learn;Based+in+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=760&lines=Building+AI-powered+enterprise+workflows;Evaluating+LLMs+for+safety+and+reliability;Shipping+full-stack+products;Based+in+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
   <br/>
 
@@ -17,12 +17,13 @@
 
 ### 👨‍💻 About Me
 
-Software developer at **Doozie Software Solutions** in Bengaluru. I build web apps, tinker with AI agents, and write about what I learn along the way.
+Software developer at **Doozie Software Solutions** in Bengaluru. I work on ERP and enterprise software, build full-stack products, and integrate AI where it can reduce manual work or improve decision-making.
 
-- 🔧 Day job: Full-stack work with **Node.js, FastAPI, React** — shipping product features and working with LLMs
+- 🔧 Day job: Full-stack engineering across **Node.js, FastAPI, React**, ERP workflows, APIs, and AI integrations
+- 🧠 Current focus: **LLM evaluation, guardrails, agent workflows, observability, and practical AI systems**
 - 🏆 Won first place at the **HSRFC x OpenClaw Builders** hackathon — built an autonomous GitHub Issue Resolver in 4 hours
 - ✍️ I write on my [blog](https://ashwinhegde19.github.io) about things I'm building and learning
-- ⚡ I automate everything I do twice
+- ⚡ I like turning messy workflows into reliable systems
 
 ---
 
@@ -146,10 +147,10 @@ Enterprise Cloud Ops Assistant built for the MCP Hackathon. Intelligent cloud in
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📄 AI Resume Reviewer</h3>
+<h3 align="center">🛡️ AI Risk Evaluation Workbench</h3>
 
 <div align="center">
-  <a href="https://github.com/Ashwinhegde19/AI-Powered-Resume-Reviewer">
+  <a href="https://github.com/Ashwinhegde19/ai-risk-evaluation-workbench">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-6366F1?style=for-the-badge&logoColor=white" alt="View"/>
   </a>
 </div>
@@ -158,11 +159,11 @@ Enterprise Cloud Ops Assistant built for the MCP Hackathon. Intelligent cloud in
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI-FF6F61?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chainlit-412991?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM_Evals-FF6F61?style=flat-square&logoColor=white"/>
 </p>
 
-Generative AI-powered resume analysis providing structured feedback using LLM APIs.
+Compares OSS and frontier assistants with hallucination, safety, bias, refusal-quality, observability, regression evals, fuzzing, and optional LLM-as-judge scoring.
 
 </td>
 </tr>
@@ -185,8 +186,8 @@ Generative AI-powered resume analysis providing structured feedback using LLM AP
 ```javascript
 const ashwin = {
     working: "Doozie Software Solutions",
-    building: "AI-powered developer tools",
-    exploring: ["Agentic workflows", "LLM orchestration"],
+    building: "AI-powered enterprise and evaluation systems",
+    exploring: ["LLM evals", "Guardrails", "Agentic workflows", "AI observability"],
     writing: "ashwinhegde19.github.io",
     learning: "Always"
 };
