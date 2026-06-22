@@ -2,6 +2,8 @@
 
 Software developer based in Bengaluru.
 
+🏆 Won 1st place at HSRFC × OpenClaw Builders Hackathon with an autonomous GitHub issue resolver agent.
+
 I work mainly with Laravel/PHP, React, FastAPI/Python, and C#/.NET. I build production web apps, internal tools, and AI-assisted workflows. Right now I am learning the LLM engineering stack through hands-on projects around fine-tuning, evaluation, agents, and AI safety.
 
 ## Current focus
