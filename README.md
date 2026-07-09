@@ -6,6 +6,10 @@ Software developer based in Bengaluru.
 
 I work mainly with Laravel/PHP, React, FastAPI/Python, and C#/.NET. I build production web apps, internal tools, and AI-assisted workflows. Right now I am learning the LLM engineering stack through hands-on projects around fine-tuning, evaluation, agents, and AI safety.
 
+## GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ashwinhegde19&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
 ## Current focus
 
 - LLM fine-tuning and evaluation
