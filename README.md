@@ -8,7 +8,7 @@ I work mainly with Laravel/PHP, React, FastAPI/Python, and C#/.NET. I build prod
 
 ## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ashwinhegde19&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ashwinhegde19&amp;theme=dark&amp;hide_border=false)](https://git.io/streak-stats)
 
 ## Current focus
 
