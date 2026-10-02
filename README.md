@@ -1,43 +1,84 @@
-# Hey, I'm Ashwin 👋
+# Ashwin K M
 
-Software developer based in Bengaluru.
+Software engineer based in Bengaluru, India.
 
-🏆 Won 1st place at HSRFC × OpenClaw Builders Hackathon with an autonomous GitHub issue resolver agent.
+I work mainly with **Laravel/PHP, React/TypeScript, Python/FastAPI, and C#/.NET**, building production web applications, internal tools, APIs, background jobs, and operational workflows.
 
-I work mainly with Laravel/PHP, React, FastAPI/Python, and C#/.NET. I build production web apps, internal tools, and AI-assisted workflows. Right now I am learning the LLM engineering stack through hands-on projects around fine-tuning, evaluation, agents, and AI safety.
+Outside work, I spend most of my time learning by building. Right now, that includes **speech ML, ASR, LLM engineering, evaluation, agents, and developer tooling**.
 
-## GitHub Streak
+## Work
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ashwinhegde19&theme=dark&hide_border=false)](https://streak-stats.demolab.com/)
+My day-to-day engineering work includes:
 
-## Current focus
+- Backend APIs and business logic
+- React-based applications
+- SQL and database work
+- Background jobs and queues
+- Notifications and scheduled workflows
+- OCR-assisted workflows
+- Internal tools and operational workflows
+- Production debugging and deployment
 
-- LLM fine-tuning and evaluation
-- AI risk classification: hallucination, bias, jailbreaks, unsafe compliance, PII
-- Agent workflows and developer tools
-- Practical deployment: APIs, serving, latency, cost, observability
+I enjoy working on problems where understanding the system and its real-world behavior matters as much as writing the code.
 
-## Work I’ve done
+## Outside work
 
-- Full-stack product work across backend APIs, admin dashboards, database migrations, queues, and deployment workflows
-- OCR/AI automation for operational workflows using Python/FastAPI, PaddleOCR, async jobs, retries, and admin review flows
-- AI builder workflows: generated UI/code, live previews, OpenRouter integration, URL import, and generated content APIs
-- Workflow automation: GitHub/task execution, background polling, QA steps, approval flows, and business-flow recording
-- Data pipelines for BI/AI-ready reporting and analytics
+### MendSpeech
 
-## Selected work
+[MendSpeech](https://github.com/resonant-ai-lab/mendspeech) is the project I'm using to learn speech ML and ASR through hands-on work.
 
-- [AI Risk Evaluation Workbench](https://github.com/Ashwinhegde19/ai-risk-evaluation-workbench) — compares model responses across risk categories like hallucination, bias, jailbreaks, unsafe compliance, and PII.
-- [Personal AI Lab](https://github.com/Ashwinhegde19/ai-lab) — hands-on LLM engineering notes and builds: SFT, structured output, evals, vLLM serving, guardrails, quantization, RAG, and observability.
-- [GhostCoder](https://github.com/Ashwinhegde19/ghostcoder) — AI coding assistant project with a full-stack setup.
-- [GitHub Issue Resolver](https://ashwinhegde19.github.io/posts/2026/openclaw-hackathon) — autonomous GitHub issue analysis agent built during the HSRFC x OpenClaw Builders hackathon. Won first place.
+I'm currently working through audio fundamentals, STFT, log-Mel features, WER/CER, ASR concepts, and understanding how speech systems behave when audio is damaged.
 
-## Links
+### LanBridge
 
-- X: https://x.com/ashwinhegde19 — most active here
-- Blog: https://ashwinhegde19.github.io
-- LinkedIn: https://www.linkedin.com/in/ashwinhegde19/
+A private project I'm currently building. I'm keeping the problem space and implementation details private for now.
 
-## Contact
+## Currently learning
 
-Best way to reach me is LinkedIn or X.
+I'm currently spending time on:
+
+- Speech ML
+- ASR
+- LLM engineering
+- LLM evaluation
+- Agent workflows
+- Model serving
+- Developer tooling
+
+I prefer learning these topics by building small systems, testing them, and understanding where they fail rather than only reading about them.
+
+## Currently reading
+
+### Inference Engineering — Philip Kiely
+
+Currently reading *Inference Engineering* from Baseten Books to understand the systems behind serving generative AI models in production.
+
+https://www.baseten.co/inference-engineering/
+
+## Tech
+
+### Languages
+
+`Python` `PHP` `TypeScript` `JavaScript` `C#` `SQL`
+
+### Frameworks
+
+`Laravel` `React` `FastAPI` `ASP.NET Core`
+
+### Data and tools
+
+`MySQL` `PostgreSQL` `Oracle` `Redis` `Docker` `Git` `GitHub Actions` `Linux`
+
+## A recent build
+
+I built an autonomous GitHub issue resolver during the **HSRFC × OpenClaw Builders Hackathon**, where the project won first place.
+
+[Read about the project](https://ashwinhegde19.github.io/posts/2026/openclaw-hackathon)
+
+## Elsewhere
+
+I share what I'm building and learning most actively on X.
+
+- X: [@ashwinhegde19](https://x.com/ashwinhegde19)
+- Blog: [ashwinhegde19.github.io](https://ashwinhegde19.github.io)
+- LinkedIn: [linkedin.com/in/ashwinhegde19](https://www.linkedin.com/in/ashwinhegde19/)
